@@ -2,9 +2,9 @@
 
 These codes are associated with the following paper [[pdf]]():
 
->LLM-based Conversational Recommendation Agents with Collaborative Verbalized Experience
->Anonymous Authors
->Submitted to ARR Feb.
+>LLM-based Conversational Recommendation Agents with Collaborative Verbalized Experience    
+>Anonymous Authors    
+>Submitted to ARR Feb.    
 
 ## How to run the codes:
 
