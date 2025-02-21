@@ -1,6 +1,6 @@
 # CRAVE: LLM-based Conversational Recommendation Agents with Collaborative Verbalized Experience
 
-These codes are associated with the following paper [[pdf]]():
+These codes are associated with the following paper:
 
 >LLM-based Conversational Recommendation Agents with Collaborative Verbalized Experience    
 >Anonymous Authors    
