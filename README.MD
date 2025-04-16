@@ -4,7 +4,6 @@ These codes are associated with the following paper:
 
 >LLM-based Conversational Recommendation Agents with Collaborative Verbalized Experience    
 >Anonymous Authors    
->Submitted to ARR Feb.    
 
 ## How to run the codes:
 
