@@ -6,7 +6,6 @@ from copy import deepcopy
 from functools import partial
 from collections import defaultdict
 
-import nflx_copilot as ncp
 from tqdm.autonotebook import tqdm
 from editdistance import eval as distance
 
