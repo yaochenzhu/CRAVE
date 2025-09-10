@@ -8,7 +8,9 @@ These codes are associated with the following paper:
 
 ## Dataset
 
-The Reddit-v2 dataset introduced in the paper can be in the update section of this [repo](https://github.com/yaochenzhu/CRAG)
+The raw Reddit-v2 dataset introduced in the paper can be in the update section of this [repo](https://github.com/yaochenzhu/CRAG)
+
+Process as described in Section 5.1, where the december conversations are used for testing.
 
 ## How to run the codes:
 
