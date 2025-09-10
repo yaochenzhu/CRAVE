@@ -37,7 +37,7 @@ The Reddit-v2 dataset introduced in the paper can be in the update section of th
 If you find this work is helpful to your research, please consider citing our paper:
 ```
 @inproceedings{zhu2025collaborative,
-  title={Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems},
+  title={LLM-based Conversational Recommendation Agents with Collaborative Verbalized Experience},
   author={Zhu, Yaochen and Steck, Harald and Liang, Dawen and Yinhan, He and Kallus, Nathan and Li, Jundong},
   booktitle={EMNLP Findings},
   year={2025}
