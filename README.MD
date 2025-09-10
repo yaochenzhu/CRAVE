@@ -4,7 +4,7 @@ These codes are associated with the following paper:
 
 >LLM-based Conversational Recommendation Agents with Collaborative Verbalized Experience    
 >**Yaochen Zhu**, Harald Steck, Dawen Liang, Yinhan He, Nathan Kallus, Jundong Li    
->EMNLP 2025 Findings 
+>Published as a conference paper in **EMNLP 2025 Findings.**   
 
 ## Dataset
 
