@@ -3,7 +3,7 @@
 These codes are associated with the following paper:
 
 >LLM-based Conversational Recommendation Agents with Collaborative Verbalized Experience    
->Anonymous Authors    
+>EMNLP 2025 Findings 
 
 ## How to run the codes:
 
